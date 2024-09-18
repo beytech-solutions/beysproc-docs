@@ -1,3 +1,1 @@
-# beysproc-docs
-
-index
+# Beysproc Automations
